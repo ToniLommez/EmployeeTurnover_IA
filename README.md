@@ -3,5 +3,7 @@ Implementação e análise de algoritmos de aprendizado de máquina na base de d
 
 ## Organização dos arquivos
 Artigo gerado: Turnover de Funcionários, Insights e Previsões através de Modelos de Aprendizado de Máquina.pdf
+
 Codigo criado: EmployeeTurnover.ipynb
+
 Base de dados: turnover.csv
